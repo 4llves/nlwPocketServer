@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726080251357,
+      "tag": "0000_first_dracula",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726081806620,
+      "tag": "0001_famous_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726083917138,
+      "tag": "0002_lowly_the_spike",
+      "breakpoints": true
+    }
+  ]
+}
